@@ -29,5 +29,3 @@ Here is a simplified README based on your requirements:
 You can find the SQL queries addressing these problems in the main file.
 
 ---
-
-This format keeps the README concise and straightforward while providing the essential information.
